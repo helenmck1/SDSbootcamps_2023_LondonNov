@@ -1,4 +1,4 @@
-# Spatial Data Science Bootcamps: Toronto 2023
+# Spatial Data Science Bootcamps: London, November 2023
 
 Welcome to your Spatial Data Science Bootcamps repo! The majority of your course materials can be found here. If you have any issues, please email [marketing@cartodb.com](mailto:marketing@cartodb.com).
 
@@ -11,25 +11,19 @@ You will need a CARTO account to complete some of the sections of this bootcamp.
 Access your handbook [here](https://docs.google.com/presentation/d/1b6u3-bE8-XGyh1dse-0knGEvKk8FqlRXL2Iw1ZrqOg4/edit?usp=sharing)! If you can't access this document, try logging out from your company Google organization - some organizations block access to external documents.)
 
 1. **Foundations of Geospatial**
-   - Professor of Urban Analytics and HoD at the Bartlett Centre for Advanced Spatial Analysis, UCL
-   - Adam Dennett
+   - Adam Dennett, Professor of Urban Analytics and HoD at the Bartlett Centre for Advanced Spatial Analysis, UCL
 
 2. **The Modern Geospatial Data Stack with an Intro to Geospatial Data Engineering**
-   - Product Manager at CARTO
-   - Ana Manzanares Villarán
+   - Ana Manzanares Villarán, Product Manager at CARTO
 
 3. **Spatial Data Science - what does what?**
-   - Solutions Engineer at CARTO
-   - Simon Wrigley
+   - Simon Wrigley, Senior Solutions Engineer at CARTO
 
 4. **Data Visualization Clinic**
-   - Geospatial Advocate at CARTO
-   - Helen McKenzie
+   - Helen McKenzie, Geospatial Advocate at CARTO
 
 5. **Leverage Python for Spatial Data Science**
-   - Data Scientist at Two Sigma
-   - Stuart Lynn
+   - Stuart Lynn, Data Scientist at Two Sigma
 
 6. **Using SQL to scale spatial analytics**
-   - Data Scientist
-   - Argyrios Kyrgiazos
+   - Argyrios Kyrgiazos, Data Scientist at CARTO
