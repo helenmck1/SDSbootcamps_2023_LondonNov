@@ -12,18 +12,21 @@ Access your handbook [here](https://docs.google.com/presentation/d/1b6u3-bE8-XGy
 
 1. **Foundations of Geospatial**
    - Adam Dennett, Professor of Urban Analytics and HoD at the Bartlett Centre for Advanced Spatial Analysis, UCL
-
-2. **The Modern Geospatial Data Stack with an Intro to Geospatial Data Engineering**
-   - Ana Manzanares Villarán, Product Manager at CARTO
-
-3. **Spatial Data Science - what does what?**
+   - [Slides & other resources](https://adamdennett.github.io/cartosdsbootcamp/FoundationsGeospatialPresentation.html#/title-slide)
+  
+2. **The Modern Geospatial Data Stack**
    - Simon Wrigley, Senior Solutions Engineer at CARTO
 
-4. **Data Visualization Clinic**
-   - Helen McKenzie, Geospatial Advocate at CARTO
+3. **An Intro to Geospatial Data Engineering**
+   - Ana Manzanares Villarán, Product Manager at CARTO
+   - [Slides](https://docs.google.com/presentation/d/1hYlfRrgZqeYUM8kemfC8uQTluQRMdbLaiXOkrb-wsOQ/edit#slide=id.g27b666e0571_0_34)
 
-5. **Leverage Python for Spatial Data Science**
+4. **Leverage Python for Spatial Data Science**
    - Stuart Lynn, Data Scientist at Two Sigma
 
-6. **Using SQL to scale spatial analytics**
+5. **Using SQL to scale spatial analytics**
    - Argyrios Kyrgiazos, Data Scientist at CARTO
+   - 
+6. **Data Visualization Clinic**
+   - Helen McKenzie, Geospatial Advocate at CARTO
+   - [Slides](https://docs.google.com/presentation/d/1B1q6h4-UqY9Va7DEM8VUsolaKqwpgSQ1cL5hQKkp9hk/edit?usp=sharing)
