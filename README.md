@@ -20,13 +20,17 @@ Access your handbook [here](https://docs.google.com/presentation/d/1b6u3-bE8-XGy
 3. **An Intro to Geospatial Data Engineering**
    - Ana Manzanares Villarán, Product Manager at CARTO
    - [Slides](https://docs.google.com/presentation/d/1hYlfRrgZqeYUM8kemfC8uQTluQRMdbLaiXOkrb-wsOQ/edit#slide=id.g27b666e0571_0_34)
+   - [github](https://github.com/CartoDB/sdsc-bootcamp-spatial-data-eng/tree/master)
 
 4. **Leverage Python for Spatial Data Science**
    - Stuart Lynn, Data Scientist at Two Sigma
 
 5. **Using SQL to scale spatial analytics**
    - Argyrios Kyrgiazos, Data Scientist at CARTO
-   - 
+   - [Slides](https://docs.google.com/presentation/d/1zNa5z8KzzjRMWDDufU8S-Jog2MLrmwY_q8T67gumfC0/edit#slide=id.g11c4afbc982_0_22)
+   - [Worksheet](https://github.com/CartoDB/research-public/blob/master/sds-bootcamps-london-231123/SDS%20Bootcamp%20London%20-%20SQL%20%26%20CARTO.pdf)
+  
+   
 6. **Data Visualization Clinic**
    - Helen McKenzie, Geospatial Advocate at CARTO
    - [Slides](https://docs.google.com/presentation/d/1B1q6h4-UqY9Va7DEM8VUsolaKqwpgSQ1cL5hQKkp9hk/edit?usp=sharing)
