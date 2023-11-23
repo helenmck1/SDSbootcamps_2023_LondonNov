@@ -16,6 +16,7 @@ Access your handbook [here](https://docs.google.com/presentation/d/1b6u3-bE8-XGy
   
 2. **The Modern Geospatial Data Stack**
    - Simon Wrigley, Senior Solutions Engineer at CARTO
+   - [Slides](https://carto.slides.com/slides-carto/the-modern-geospatial-data-stack?token=jhD0LlIB)
 
 3. **An Intro to Geospatial Data Engineering**
    - Ana Manzanares Villarán, Product Manager at CARTO
